@@ -1,9 +1,6 @@
 # Movie-Recommander-system-
 A Movie Recommender System implemented in Python using collaborative filtering and content-based filtering techniques. The system processes a dataset of 10,000 movies, extracting features such as keywords, genres, cast, and crew information to generate movie recommendations based on user input.
 
-# Movie Recommender System
-
-This repository contains a Movie Recommender System implemented in Python, utilizing collaborative filtering and content-based filtering techniques. The system is designed to recommend movies based on user input, providing personalized suggestions.
 
 ## Overview
 
