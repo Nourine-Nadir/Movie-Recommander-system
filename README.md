@@ -12,8 +12,8 @@ The recommender system processes a dataset of 10,000 movies, combining informati
 - **Text Processing**: String lists in the dataset are converted into Python lists using the `ast` module.
 - **Feature Extraction**: Relevant features like keywords, genres, cast, and crew are extracted from the dataset and processed for further analysis.
 - **TF-IDF Vectorization**: The movie tags are vectorized using TF-IDF (Term Frequency-Inverse Document Frequency) to represent the importance of each term in the dataset.
-- **Collaborative Filtering**: The system employs collaborative filtering to calculate cosine similarity scores between movies, enabling personalized recommendations.
 - **User Interaction**: Users can input a movie name, and the system finds a close match using the `difflib` library. Recommendations are then generated based on the selected movie.
+
 
 ## Usage
 
